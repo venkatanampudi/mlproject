@@ -16,7 +16,7 @@ logging.basicConfig(
     format="[%(asctime)s] %(levelname)s %(name)s:%(lineno)d - %(message)s"
 )
 
-# to execute if this code is correct or not 
+# to execute if this code is correct or not.
 if __name__ == "__main__":
     logging.info("Logging has started successfully!")
 
